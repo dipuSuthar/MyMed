@@ -1,26 +1,115 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
+/* ===============================
+   THEME VARIABLES (DESIGN TOKENS)
+=============================== */
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Brand Colors */
+  --color-primary: #4CAF4F;
+  --color-primary-dark: #116C14;
+  --color-footer: #4CAF4F;
+  --color-light-bg:#EDF7ED;
+
+  /* Text Colors */
+  --color-heading: #333333;
+  --color-text: #666666;
+  --color-white: #FFFFFF;
+
+  /* Fonts */
+  --font-primary: "Poppins", sans-serif;
+
+  /* Desktop Font Sizes */
+  --fs-banner-desktop: 44px;
+  --fs-heading-desktop: 32px;
+  --fs-subheading-desktop: 18px;
+  --fs-text-desktop: 16px;
+  --fs-button: 14px;
+
+  /* Mobile Font Sizes */
+  --fs-banner-mobile: 30px;
+  --fs-heading-mobile: 25px;
+  --fs-subheading-mobile: 16px;
+  --fs-text-mobile: 14px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
+/* ===============================
+   GLOBAL STYLES
+=============================== */
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-primary);
+  color: var(--color-text);
+}
+
+/* ===============================
+   TYPOGRAPHY
+=============================== */
+.banner-heading {
+  font-size: var(--fs-banner-desktop);
+  color: var(--color-heading);
+  font-weight: 500;
+}
+
+.heading {
+  font-size: var(--fs-heading-desktop);
+  color: var(--color-heading);
+  font-weight: 500;
+}
+
+.sub-heading {
+  font-size: var(--fs-subheading-desktop);
+  color: var(--color-heading);
+  font-weight: 500;
+}
+
+.text {
+  font-size: var(--fs-text-desktop);
+  color: var(--color-text);
+}
+
+/* ===============================
+   BUTTON STYLE
+=============================== */
+.btn-primary {
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  font-size: var(--fs-button);
+  font-weight: 500;
+  padding: 12px 24px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: var(--color-primary-dark);
+}
+
+/* ===============================
+   BACKGROUNDS
+=============================== */
+.bg-light {
+  background-color: var(--color-light-bg);
+}
+
+.bg-footer {
+  background-color: var(--color-footer);
+}
+
+/* ===============================
+   MOBILE OVERRIDES
+=============================== */
+@media (max-width: 767px) {
+  .banner-heading {
+    font-size: var(--fs-banner-mobile);
+  }
+
+  .heading {
+    font-size: var(--fs-heading-mobile);
+  }
+
+  .sub-heading {
+    font-size: var(--fs-subheading-mobile);
+  }
+
+  .text {
+    font-size: var(--fs-text-mobile);
+  }
 }
