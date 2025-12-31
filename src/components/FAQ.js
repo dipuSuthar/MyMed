@@ -6,19 +6,19 @@ import { faPlus, faMinus } from "@fortawesome/free-solid-svg-icons";
 const faqs = [
   {
     q: "What types of medical solutions do you offer?",
-    a: "We provide a wide range of laboratory-grade chemicals, antiseptic solutions, and specialized reagents designed for clinical and industrial healthcare applications.",
+    a: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Consectetur adipiscing elit quisque faucibus ex sapien vitae. Ex sapien vitae pellentesque sem placerat in id. Placerat in id cursus mi pretium tellus duis. Pretium tellus duis convallis tempus leo eu aenean.",
   },
   {
     q: "How can I request a product quotation?",
-    a: "Simply click the 'Get in Touch' button or visit our contact page. Our team typically responds with a detailed digital quote within 24 business hours.",
+    a: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Consectetur adipiscing elit quisque faucibus ex sapien vitae. Ex sapien vitae pellentesque sem placerat in id. Placerat in id cursus mi pretium tellus duis.",
   },
   {
     q: "What are your standard shipping protocols?",
-    a: "We utilize climate-controlled logistics to ensure all medical products maintain their integrity. Shipping times vary by region but generally range from 3-5 business days.",
+    a: "Lorem ipsum dolor sit amet consectetur adipiscing elit. Consectetur adipiscing elit quisque faucibus ex sapien vitae. Ex sapien vitae pellentesque sem placerat in id. Placerat in id cursus mi pretium tellus duis. Pretium tellus duis convallis tempus leo eu aenean.",
   },
   {
     q: "Are Material Safety Data Sheets (MSDS) provided?",
-    a: "Yes, full documentation including MSDS and Certificates of Analysis (CoA) are included with every shipment and can be accessed digitally through our portal.",
+    a: "Lorem ipsum dolor sit amet consectetur adipiscing elit.F",
   },
 ];
 

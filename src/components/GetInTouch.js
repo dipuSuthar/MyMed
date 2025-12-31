@@ -26,9 +26,8 @@ export default function GetInTouch() {
         </h2>
 
         <p className="text-blue-50 text-lg lg:text-xl max-w-2xl mx-auto mb-12 leading-relaxed">
-          Whether you need bulk medical supplies or custom chemical
-          formulations, our team of experts is ready to assist you with
-          industry-leading precision.
+          Lorem ipsum dolor sit amet consectetur adipiscing elit. Consectetur
+          adipiscing elit quisque faucibus ex sapien vitae.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
