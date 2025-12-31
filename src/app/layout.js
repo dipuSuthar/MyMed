@@ -12,10 +12,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Company Name | High-Quality Chemical Solutions",
+  title: "MyMed | High-Quality Chemical Solutions",
   description:
-    "Company Name provides innovative chemical solutions tailored for industry standards. Explore our products, work, and gallery.",
-  metadataBase: new URL("https://www.company.com"), //for production
+    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum sapiente architecto amet.",
+  metadataBase: new URL("https://www.company.com"),
   keywords: [
     "chemicals",
     "industrial solutions",
@@ -25,9 +25,10 @@ export const metadata = {
   ],
   openGraph: {
     title: "Company Name",
-    description: "Discover our high-quality chemical products and services.",
+    description:
+      "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
     url: "https://www.company.com",
-    siteName: "Company Name",
+    siteName: "MyMed",
     images: [
       {
         url: "/assets/hero/banner.png",
@@ -41,7 +42,8 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Company Name",
-    description: "Innovative chemical solutions for industries worldwide.",
+    description:
+      "Autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae.",
     images: ["/assets/hero/banner.png"],
   },
   icons: {

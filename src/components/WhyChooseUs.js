@@ -13,28 +13,28 @@ export default function WhyChooseUs() {
   const reasons = [
     {
       title: "Expert Medical Team",
-      desc: "Our specialists bring decades of collective wisdom from top-tier global institutions.",
+      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum sapiente architecto amet.",
       icon: faUserDoctor,
       color: "text-blue-600",
       bg: "bg-blue-50",
     },
     {
       title: "15+ Years of Trust",
-      desc: "A proven history of delivering pharmaceutical excellence and reliable lab solutions.",
+      desc: "Autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
       icon: faHistory,
       color: "text-emerald-600",
       bg: "bg-emerald-50",
     },
     {
       title: "Unmatched Track Record",
-      desc: "Maintaining 99.9% purity standards across all medical grade chemical distributions.",
+      desc: "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid.",
       icon: faAward,
       color: "text-amber-600",
       bg: "bg-amber-50",
     },
     {
       title: "Advanced Research",
-      desc: "Supporting high-level clinical trials with industry-standard target formulations.",
+      desc: "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
       icon: faGraduationCap,
       color: "text-purple-600",
       bg: "bg-purple-50",
@@ -44,23 +44,19 @@ export default function WhyChooseUs() {
   return (
     <section className="bg-slate-50 py-16 lg:py-24 px-6 lg:px-16 overflow-hidden">
       <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center gap-12 lg:gap-16">
-        {/* Left: Enhanced Image with Decorative Elements */}
-        {/* Removed fixed order for mobile to keep text first, or keep order-2 for image bottom */}
+        {/* Left: Image Section */}
         <div className="w-full lg:flex-1 relative order-2 lg:order-1 group">
-          {/* Decorative Ring - Hidden on smallest mobile if causing horizontal scroll */}
           <div className="absolute -inset-4 border-2 border-dashed border-blue-200 rounded-[2.5rem] animate-[spin_20s_linear_infinite] pointer-events-none hidden sm:block" />
 
-          {/* Image Container: Uses aspect ratio instead of fixed width */}
           <div className="relative rounded-[2rem] overflow-hidden shadow-2xl aspect-square sm:aspect-video lg:aspect-square w-full">
             <Image
               src="/assets/whyChooseUs/why-choose-us.png"
               alt="Our medical professional team"
-              fill // Use fill instead of fixed width/height
+              fill
               className="object-cover transition-transform duration-700 group-hover:scale-105"
               sizes="(max-width: 768px) 100vw, 50vw"
             />
 
-            {/* Experience Badge - Responsive text size */}
             <div className="absolute bottom-4 right-4 sm:bottom-6 sm:right-6 bg-white/90 backdrop-blur-md p-3 sm:p-4 rounded-2xl shadow-lg border border-white/20">
               <p className="text-2xl sm:text-3xl font-bold text-blue-600 leading-none">
                 15+
@@ -72,7 +68,7 @@ export default function WhyChooseUs() {
           </div>
         </div>
 
-        {/* Right: Modern Grid Cards */}
+        {/* Right: Text and Grid Section */}
         <div className="w-full lg:flex-1 order-1 lg:order-2">
           <div className="mb-10 text-center lg:text-left">
             <h2 className="text-blue-600 font-bold uppercase tracking-widest text-xs sm:text-sm mb-3">
@@ -82,9 +78,10 @@ export default function WhyChooseUs() {
               Why Industry Leaders Trust Us
             </h3>
             <p className="text-slate-600 text-base sm:text-lg leading-relaxed">
-              We don't just supply chemicals; we provide the foundation for
-              medical breakthroughs through rigorous quality control and
-              professional expertise.
+              {/* Main description replaced with Lorem */}
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+              enim ad minim veniam, quis nostrud exercitation.
             </p>
           </div>
 
