@@ -6,8 +6,7 @@ Designed to deliver a clean, professional, and user-friendly experience for heal
 ---
 
 ## 🌐 Live Demo
-
-🔗 https://your-mymed-website.vercel.app
+https://my-med-beta.vercel.app/
 
 ---
 
@@ -36,6 +35,7 @@ The project emphasizes responsive design, reusable components, smooth user inter
 
 ### Frontend
 - React.js
+- Next.js
 - JavaScript
 - HTML5
 - CSS3
@@ -47,7 +47,7 @@ The project emphasizes responsive design, reusable components, smooth user inter
 
 ### Deployment
 - Vercel
-- Netlify
+
 
 ---
 
@@ -111,4 +111,4 @@ Through this project, I improved my understanding of:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/mymed-healthcare.git
+https://github.com/dipuSuthar/MyMed.git
