@@ -91,13 +91,22 @@ Through this project, I improved my understanding of:
 ## 📷 Screenshots
 
 ### Homepage
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94c2a470-8d93-4e1a-82df-a18b7ba89053" />
+<img width="1902" height="913" alt="image" src="https://github.com/user-attachments/assets/5b23ff26-7ede-4577-aef5-177f8ebe63e0" />
+<img width="1897" height="915" alt="image" src="https://github.com/user-attachments/assets/d8c04b49-5c7a-485f-a330-d58a74032d0d" />
+<img width="1897" height="912" alt="image" src="https://github.com/user-attachments/assets/376db8fc-b6e0-44fe-9a2e-61c9074094ee" />
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/40fe45c2-5263-4fca-8c5d-1d6ef1d6c6c6" />
+<img width="1898" height="911" alt="image" src="https://github.com/user-attachments/assets/4e39430f-71d6-43ce-9385-41cf74e4fcd3" />
+<img width="1898" height="911" alt="image" src="https://github.com/user-attachments/assets/714c77af-ecb6-4ea1-ae61-d23f0e664f96" />
+<img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/d23153ec-4dbc-42d6-bae4-b48060dc045a" />
+<img width="1900" height="911" alt="image" src="https://github.com/user-attachments/assets/e8d7034e-eed6-439a-a8a8-539990e40633" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f26f68bd-3c0f-4691-8dec-070f25c8d7a8" />
-<img width="1897" height="910" alt="image" src="https://github.com/user-attachments/assets/5c9f106c-0a80-49de-a8c0-c70c4554ce60" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eb72dde6-c0f9-48e8-8b2a-c2b5467fbab9" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52c07208-3746-4f21-ad9d-b293773f94f9" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c819dc88-eb46-4af5-bba0-019a8a7cb995" />
+
+
+
+
+
+
+
 
 
 
