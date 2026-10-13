@@ -1,0 +1,22 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="32" fill="#F5FAFF"/>
+  <circle cx="180" cy="140" r="90" fill="#DFF7F0"/>
+  <circle cx="980" cy="680" r="110" fill="#E7F0FF"/>
+  <rect x="120" y="150" width="430" height="500" rx="30" fill="#FFFFFF" stroke="#D7E5F5"/>
+  <rect x="170" y="215" width="330" height="190" rx="24" fill="#EAF4FF"/>
+  <path d="M220 365C220 336.833 242.833 314 271 314H300V398H220V365Z" fill="#8B5CF6"/>
+  <path d="M300 314H332C360.167 314 383 336.833 383 365V398H300V314Z" fill="#A78BFA"/>
+  <rect x="185" y="440" width="300" height="16" rx="8" fill="#CBD5E1"/>
+  <rect x="185" y="482" width="240" height="16" rx="8" fill="#DDEAFE"/>
+  <rect x="185" y="524" width="210" height="16" rx="8" fill="#DDEAFE"/>
+
+  <rect x="630" y="180" width="430" height="430" rx="32" fill="#0F172A"/>
+  <rect x="675" y="230" width="340" height="260" rx="24" fill="#E6FFFB"/>
+  <path d="M750 370L810 308L870 360L935 292" stroke="#0EA5A4" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="750" cy="370" r="12" fill="#0EA5A4"/>
+  <circle cx="810" cy="308" r="12" fill="#0EA5A4"/>
+  <circle cx="870" cy="360" r="12" fill="#0EA5A4"/>
+  <circle cx="935" cy="292" r="12" fill="#0EA5A4"/>
+  <rect x="700" y="520" width="290" height="24" rx="12" fill="#BBF7D0"/>
+  <text x="760" y="600" fill="#E6FFFB" font-size="24" font-family="Arial, sans-serif" font-weight="700">Diagnostics made simple</text>
+</svg>

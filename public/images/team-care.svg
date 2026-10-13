@@ -1,0 +1,30 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="32" fill="#F7FBFF"/>
+  <circle cx="980" cy="120" r="90" fill="#DDF7EE"/>
+  <circle cx="200" cy="680" r="120" fill="#E9F0FF"/>
+  <rect x="110" y="130" width="500" height="520" rx="28" fill="#FFFFFF" stroke="#D7E5F5"/>
+  <rect x="150" y="190" width="420" height="180" rx="24" fill="#EEF6FF"/>
+  <rect x="180" y="220" width="120" height="120" rx="60" fill="#A7F3D0"/>
+  <path d="M220 275C220 247.386 242.386 225 270 225H290C317.614 225 340 247.386 340 275V285C340 312.614 317.614 335 290 335H270C242.386 335 220 312.614 220 285V275Z" fill="#0EA5A4"/>
+  <path d="M245 330H286C310.301 330 330 349.699 330 374V390H201V374C201 349.699 220.699 330 245 330Z" fill="#34D399"/>
+  <rect x="360" y="230" width="170" height="18" rx="9" fill="#BFDBFE"/>
+  <rect x="360" y="270" width="150" height="18" rx="9" fill="#DDEAFE"/>
+  <rect x="360" y="310" width="130" height="18" rx="9" fill="#DDEAFE"/>
+  <rect x="180" y="420" width="180" height="170" rx="22" fill="#0F172A"/>
+  <circle cx="270" cy="455" r="42" fill="#E2F5EF"/>
+  <rect x="216" y="510" width="110" height="18" rx="9" fill="#A7F3D0"/>
+  <rect x="390" y="420" width="200" height="170" rx="22" fill="#E6FFFB"/>
+  <circle cx="490" cy="455" r="36" fill="#8BE5D2"/>
+  <rect x="430" y="510" width="120" height="18" rx="9" fill="#69D7C4"/>
+
+  <rect x="670" y="170" width="420" height="440" rx="30" fill="#0EA5A4"/>
+  <rect x="720" y="220" width="320" height="120" rx="20" fill="#EAFDF9"/>
+  <text x="755" y="274" fill="#0F172A" font-size="26" font-family="Arial, sans-serif" font-weight="700">Care Team</text>
+  <text x="755" y="312" fill="#475569" font-size="18" font-family="Arial, sans-serif">Qualified specialists ready to help</text>
+  <rect x="720" y="385" width="140" height="170" rx="18" fill="#CFFAF3"/>
+  <circle cx="790" cy="430" r="36" fill="#34D399"/>
+  <text x="740" y="500" fill="#0F172A" font-size="20" font-family="Arial, sans-serif" font-weight="700">Doctor</text>
+  <rect x="890" y="385" width="110" height="170" rx="18" fill="#A7F3D0"/>
+  <circle cx="945" cy="430" r="30" fill="#0F172A"/>
+  <text x="906" y="500" fill="#0F172A" font-size="20" font-family="Arial, sans-serif" font-weight="700">Nurse</text>
+</svg>
